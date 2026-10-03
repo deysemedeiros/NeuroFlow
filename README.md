@@ -29,7 +29,7 @@ O app é **multiplataforma** (Android, iOS e Web) a partir de um único código 
 
 ## 🚀 Demonstração
 
-- **Versão web:** _adicione aqui o link depois de publicar (ver [docs/DEPLOY.md](docs/DEPLOY.md))_
+- **Versão web:** https://neuroflow-deyse.vercel.app/
 - Na tela de login, use os botões **“Testar sem cadastro”** ou entre com:
 
 | Perfil       | E-mail                 | Senha       |
